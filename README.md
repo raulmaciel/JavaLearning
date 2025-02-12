@@ -16,11 +16,11 @@ Embora eu tenha identificado que alguns dos conceitos podem ser melhorados ou ap
 Cada pacote contém a solução do respectivo exercício.
 
 ## Exercícios Resolvidos ✅ ⏳
-- ⏳ `exercicio01` 
-- ⏳ `exercicio02`
-- ⏳ `exercicio03`
-- ⏳ `exercicio04`
-- ⏳ `exercicio05`
+- ✅ `exercicio01` 
+- ✅ `exercicio02`
+- ✅ `exercicio03`
+- ✅ `exercicio04`
+- ✅ `exercicio05`
 - ⏳ `exercicio06`
 - ⏳ `exercicio07`
 - ⏳ `exercicio08`
