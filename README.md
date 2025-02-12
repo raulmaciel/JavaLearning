@@ -3,7 +3,7 @@
 Este repositório contém a minha resolução da [lista de exercícios de programação](https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao). O objetivo é praticar os conteúdos vistos da aula 0 à 95 do curso de java da plaaforma DevDojo.
 
 ## Motivação
-Os exercícios estão sendo realizados, pois após completar até da aula 0 até a aula 95 do curso DevDojo, que vão desde conceitos fundamentais até orientação a objetos, incluindo herança, polimorfismo, interfaces e enumerações. Neste ponto, decidi aplicar o conhecimento adquirido até agora em exercícios práticos, para fortalecer a compreensão dos conceitos antes de avançar para tópicos mais avançados.
+Os exercícios estão sendo realizados, pois após completar da aula 0 até a aula 95 do curso DevDojo, que vão desde conceitos fundamentais até orientação a objetos, incluindo herança, polimorfismo, interfaces e enumerações, decidi aplicar o conhecimento adquirido até agora em exercícios práticos, para fortalecer a compreensão dos conceitos antes de avançar para tópicos mais avançados.
 
 Embora eu tenha identificado que alguns dos conceitos podem ser melhorados ou aplicados de maneira mais eficiente, o foco até o momento foi em reforçar os fundamentos. Assim, mesmo que melhorias sejam feitas futuramente, estou buscando consolidar o conteúdo estudado, aplicando em problemas práticos, enquanto sigo em frente no curso.
 
