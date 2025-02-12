@@ -1,6 +1,6 @@
 # Lista de Exercícios - Lógica de Programação
 
-Este repositório contém a minha resolução da [lista de exercícios de lógica de programação da DIO](https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao). O objetivo é praticar os conteúdos vistos da aula 0 à 95 do curso de java da plaaforma DevDojo.
+Este repositório contém a minha resolução da [lista de exercícios de programação](https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao). O objetivo é praticar os conteúdos vistos da aula 0 à 95 do curso de java da plaaforma DevDojo.
 
 ## 📌 Motivação
 Os exercícios estão sendo realizados, pois após completar até da aula 0 até a aula 95 do curso DevDojo, senti necessidade de utilizar os conceitos vistos em exercicios externos, para fixar o conteudo visto até então. Isso ajudará a consolidar conceitos fundamentais antes de avançar para tópicos mais avançados.
