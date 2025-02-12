@@ -6,7 +6,7 @@ import devraul.com.exercicio02.servico.Comparador;
 
 import java.util.Scanner;
 
-public class TesteEx01 {
+public class TesteEx02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
