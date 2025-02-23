@@ -21,10 +21,10 @@ Cada pacote contém a solução do respectivo exercício.
 - ✅ `exercicio03`
 - ✅ `exercicio04`
 - ✅ `exercicio05`
-- ⏳ `exercicio06`
-- ⏳ `exercicio07`
-- ⏳ `exercicio08`
-- ⏳ `exercicio09`
+- ✅ `exercicio06`
+- ✅ `exercicio07`
+- ✅ `exercicio08`
+- ✅ `exercicio09`
 - ⏳ `exercicio10`
 - ⏳ `exercicio11`
 - ⏳ `exercicio12`
